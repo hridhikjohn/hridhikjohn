@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hridhikjohn
-- 👀 I’m interested in ... full stack development
-- 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... instagram- @fleetpeak
-- 😄 Pronouns: ... he/him
+- 👋 Hi, I’m Hridhik John Sunil
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently learning Python, html, Django
+- 📫 How to reach me : instagram- @fleetpeak, email- hridhikjohnsunil@gmail.com
+- 😄 Pronouns: he/him
 
 
 <!---
